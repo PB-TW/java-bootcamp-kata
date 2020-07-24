@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: .idea/compiler.xml
+  checksum: 969085c74312d3671f326a0361560ce59fd8fcf299966534f8c9d9a3935e1b50
+  ignore_detectors: []
+scopeconfig: []
